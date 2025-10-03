@@ -35,7 +35,7 @@ O curso utiliza um design responsivo nativo e está dividido em 3 lições seque
 
 ## 4. Inspeção e Otimização de Código 
 
-O código gerado foi inspecionado no VS Code para garantir a integridade do pacote, demonstrando atenção aos detalhes:
+O código gerado foi inspecionado no VS Code para garantir a integridade do pacote:
 
 * O arquivo **`imsmanifest.xml`** foi validado para confirmar a estrutura SCORM 1.2.
 * **Correção de CSS:** foram feitas por mim algumas mudanças na estilização do projeto, tornando mais intuitivo as páginas e com uma aparência mais amigável para o consumidor final.
